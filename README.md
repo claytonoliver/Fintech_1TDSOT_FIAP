@@ -1,31 +1,28 @@
-# Projeto Fintech - FIAP
-Este é o repositório do projeto desenvolvido para a disciplina de Desenvolvimento Web da faculdade. O objetivo era aplicar os conhecimentos adquiridos em HTML, CSS e Bootstrap na criação de telas para o projeto Fintech.
+**Projeto Fintech 🚀**
 
-Avaliação e Feedback
-Feedback do Professor:
+Bem-vindo ao repositório do projeto Fintech desenvolvido durante a disciplina de Desenvolvimento Web!
 
-✔️ Bom trabalho!
-✔️ É importante incluir seus dados de identificação no nome do arquivo nas próximas entregas.
-✔️ O website funciona corretamente, sem quebras de layout, imagens, etc.
-✔️ Layout responsivo.
-✔️ Boas práticas na separação de HTML e CSS.
-✔️ Entrega relacionada ao projeto Fintech.
-✔️ Utilização de um framework web (Bootstrap).
-✔️ Repositório do projeto disponibilizado publicamente no GitHub.
-Observações:
+| :placard: FIAP | 1TDSOT  |
+| -------------  | --- |
+| :sparkles: Nome        | **FINTECH**
+| :label: Tecnologias | HTML, CCS e Bootstrap
 
-Atividades entregues até 3 dias após o prazo receberão até 70% da nota.
-Descrição do Projeto
-O desafio consistiu em recriar telas do projeto Fintech com base nos protótipos desenvolvidos na Fase 2 (Prototyping). A implementação foi realizada utilizando HTML, CSS e o framework Bootstrap. A entrega foi bem-sucedida, seguindo todas as regras estabelecidas.
+**🌟 Descrição do Projeto**
 
-Instruções e Regras
-Criação de apenas uma tela.
-Manutenção de HTML e CSS em arquivos separados.
-Ausência de uso de JavaScript.
-Ampla utilização do Bootstrap, com personalizações apenas quando necessário.
-Necessidade de usar um framework web (Bootstrap foi escolhido).
-Garantia de que o projeto abra na máquina do professor através do arquivo .HTML.
-Como Contribuir
+O desafio era recriar as telas do projeto Fintech com base nos protótipos desenvolvidos na Fase 2 (Prototyping). Utilizamos toda a nossa criatividade e habilidades em HTML, CSS e Bootstrap para dar vida a um projeto espetacular.
+
+**🚦 Instruções e Regras**
+
+Crie uma tela para arrasar.
+Mantenha HTML e CSS em arquivos separados.
+Nada de JavaScript nesta festa.
+Abuse do Bootstrap para agilizar!
+Escolha o framework web que mais faz o seu coração bater.
+Garanta que o projeto abra na máquina do professor através do arquivo .HTML.
+
+**🤖 Como Contribuir**
+
 Clone o repositório: 🔄 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Faça as alterações necessárias nos arquivos .html e .css.
-Envie as alterações para o GitHub: 📤 git add . && git commit -m "Descrição das alterações" && git push origin main.
+Faça mágica nos arquivos .html e .css.
+Envie suas contribuições para o GitHub: 📤 git add . && git commit -m "Descrição mágica das alterações" && git push origin main.
+Participe dessa jornada incrível de desenvolvimento!
