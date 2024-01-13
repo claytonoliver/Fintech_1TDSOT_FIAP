@@ -13,16 +13,24 @@ O desafio era recriar as telas do projeto Fintech com base nos protótipos desen
 
 **🚦 Instruções e Regras**
 
-Crie uma tela para arrasar.
-Mantenha HTML e CSS em arquivos separados.
-Nada de JavaScript nesta festa.
-Abuse do Bootstrap para agilizar!
-Escolha o framework web que mais faz o seu coração bater.
-Garanta que o projeto abra na máquina do professor através do arquivo .HTML.
+-Crie uma tela para arrasar.
+
+-Mantenha HTML e CSS em arquivos separados.
+
+-Nada de JavaScript nesta festa.
+
+-Abuse do Bootstrap para agilizar!
+
+-Escolha o framework web que mais faz o seu coração bater.
+
+-Garanta que o projeto abra na máquina do professor através do arquivo .HTML.
 
 **🤖 Como Contribuir**
 
 Clone o repositório: 🔄 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 Faça mágica nos arquivos .html e .css.
+
 Envie suas contribuições para o GitHub: 📤 git add . && git commit -m "Descrição mágica das alterações" && git push origin main.
+
 Participe dessa jornada incrível de desenvolvimento!
